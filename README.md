@@ -112,8 +112,9 @@ The Active Object Pipeline can be configured by modifying the source code (`main
 ## Running
 
 Run the Active Object Pipeline by executing the compiled binary with the number of tasks as the argument: (./pipeline <number_of_tasks> [<random_seed>]) </div>
-./st_pipeline  </div>
-</div>
-## Author: </div>
+./st_pipeline
+
+## Author:
+
 [Batel Cohen Yerushalmi](https://github.com/BatelCohen7 "Batel Cohen Yerushalmi") 
 
